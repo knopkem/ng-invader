@@ -1,0 +1,13 @@
+.*.swp
+*~
+.DS_Store
+build
+buildx86
+buildx64
+build_2013
+*.user
+.cproject
+.project
+node_modules
+bower_components
+doc
